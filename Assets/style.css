@@ -1,0 +1,40 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: rgb(72, 68, 68);
+}
+
+/*Porfolio images */
+
+.imgsize {
+    width: 300px;
+    height: 300px;
+    margin: 30px auto;
+}
+
+/*Navbar for all pages*/
+.navbar-dark .navbar-nav .nav-link {
+    color: aqua !important;
+}
+.navbar-dark .navbar-brand {
+    color: aqua;
+}
+
+/* Jumbotron for all pages */
+.jumbotron {
+    background-color: black;
+    max-width: 1200px;
+    margin: 100px;
+}
+
+/* Text color */
+p {
+    color: aqua;
+}
+
+/* edit size of Bootstrap message form */
+textarea {
+    height: 100px !important;
+}
